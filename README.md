@@ -9,3 +9,6 @@ MacOS Force Touch haptic clicking when moving trackpad like SteamDeck and Steam 
 1. Quit first run
 4. Run again <img width="220" alt="image" src="https://user-images.githubusercontent.com/704698/155904637-d08393e8-a019-401e-aafe-5472eaed32ba.png">
 
+## Demo
+https://user-images.githubusercontent.com/704698/156897191-0e18ef65-d2ae-4088-9755-4f5b77ddd757.mp4
+
